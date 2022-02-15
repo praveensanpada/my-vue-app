@@ -135,7 +135,7 @@ export default defineComponent({
       },
       {
         name: "Contact Address",
-        key: "contract_address",
+        key: "contract_addresses",
         sortable: true,
       },
       // {
